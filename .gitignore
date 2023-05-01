@@ -1,0 +1,7 @@
+.cache
+.upm
+.replit
+replit.nix
+lib/
+javafx-sdk-18.0.2/
+*.class
